@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working on [an in-browser Code Editor](https://kmetra.ct.ws/)
 
+- I'm also working on a web-powered [Attendance Monitoring System](https://github.com/k-metra/AttendanceMonitoringSystem)!
+
 - 🌱 I’m currently learning **JavaScript, C#, CSS, Python, Vue.js, and basic web development.**
 
-- 💬 Ask me about **Basic WinFormApps systems, or basic entry-level data science**
+- 💬 Ask me about **Basic WinFormApps systems, web development/design or basic entry-level data science**
 
 - 📫 How to reach me **metrakurt@gmail.com**
 
