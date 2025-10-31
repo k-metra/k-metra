@@ -2,6 +2,9 @@
 <h3 align="center">A passionate 1st-year college BSIT student from Lyceum of Alabang.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k-metra&label=Profile%20views&color=0e75b6&style=flat" alt="k-metra" /> </p>
+<a href="https://ko-fi.com/S6S11NOJWU" target="_blank">
+  <img src="https://ko-fi.com/img/githubbutton_sm.svg" />
+</a>
 
 - 🔭 I’m currently working on [an in-browser Code Editor](https://kmetra.ct.ws/)
 
